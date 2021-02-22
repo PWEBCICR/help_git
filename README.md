@@ -3,7 +3,7 @@ Quelques petits conseils sur GitHub
 
 ## Les bases
 
-On a un repo, ça correspond à un dossier de travail. Dans celui-ci on aura forcément un readme.md, ça peut être bien de le compléter pour savoir où on en est et bien détailler le bordel (peut être qu'on va devoir le faire en anglais, ça dépendra du cahier des charges (si projet en Anglais ou non)).
+On a un repo, ça correspond à un dossier de travail. Dans celui-ci on aura forcément (forcément pcq c'est mieux du coup on se forcera à en faire un) un readme.md, ça peut être bien de le compléter pour savoir où on en est et bien détailler le bordel (peut être qu'on va devoir le faire en anglais, ça dépendra du cahier des charges (si projet en Anglais ou non)).
 
 Pour travailler sur ce repo, il faut le cloner sur ta machine. `git clone lien_de_mon_repo` (on peut faire un clonage http ou un clonage ssh).
 On fait nos modifs sur le repo (si ce sont des nouveaux fichiers, on les ajoutes (`git add mon fichier`)). Quand on les modifs sont finies, on fait un `commit` (ON PEUT FAIRE UN MAX DE COMMIT). Il ne faut pas attendre d'avoir fait 5h de code pour commit. Github c'est un gestionnaire de version, c'est donc grave pratique. Si une modif plante on peut toujours ('fin normalement) revenir à une version précédente. 
